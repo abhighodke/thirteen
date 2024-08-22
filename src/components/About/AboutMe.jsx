@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import aboutImage from '../../assets/susan_img.png'; // Replace with the correct path to your image
+import aboutImage from '../../assets/Susan_img.png'; // Replace with the correct path to your image
 import topImage from '../../assets/mathias-reding-cmyDyDa6Wfk-unsplash.jpg'; // New image at the top
 import clientData from '../../clientData'; // Import the client data
 
